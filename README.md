@@ -4,6 +4,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9f84daaeb4f143568d6b8e17faec0880)](https://www.codacy.com/gh/groupdocs-total/GroupDocs.Total-for-NET-MVC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=groupdocs-total/GroupDocs.Total-for-NET-MVC&amp;utm_campaign=Badge_Grade)
 [![GitHub license](https://img.shields.io/github/license/groupdocs-total/GroupDocs.Total-for-NET-MVC.svg)](https://github.com/groupdocs-total/GroupDocs.Total-for-NET-MVC/blob/master/LICENSE)
 
+:warning: **This repository has moved to https://github.com/groupdocs-total/GroupDocs.Total-for-.NET/tree/main/Demos/MVC**
+
 ## System Requirements
 - .NET Framework 4.5
 - Visual Studio 2015
